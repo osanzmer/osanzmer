@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 Óscar Sanz Merino
+📫 Madrid, Spain.
+💬
+
+Started Computer Science Engineering @ 18
+
+
+
+B1 Certificate in English @ 22
+Bachelor in Computer Science Engineering @ 23
+B2 First Certificate in English @ 24
+Intern Developer in Santander Group @ 25  (18k€)
+Backend Developer in Santander Group @ 26 (21k€)
+
+Backend Developer in Mapfre @ 28 (24k€)
+Thesis in Computer Science Engineering @ 28
+
+Fullstack Developer in Mahou @ 30 (36k€)
+
+
+
+🔭 Fullstack Developer in Iberpay @ 34 (36k€)
